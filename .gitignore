@@ -1,0 +1,21 @@
+.vscode/*
+*.exe
+debug
+debug.test
+go.sum
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# macOS files
+.DS_Store*
